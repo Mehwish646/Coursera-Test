@@ -1,0 +1,43 @@
+body{
+	font-size: 2em;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	
+}
+.btright{
+	float: right;
+	margin-bottom:20px;
+	height:25px;
+	width: 20px
+}
+h1{
+	text-align: center;
+	color: black;
+}
+.hed{
+	text-align: center;
+}
+#hed1  {
+	
+	text-align: center;
+}
+#hed2{
+text-align: center;
+}
+#hed3{
+	text-align: center;
+
+}
+.sec{
+	background-color: gray;
+}
+.ref{
+	border: 1px solid black;
+	text-align: center;
+	
+	padding: 2px;
+	font-size: 25px;
+	text-align: center;
+}
+a{
+	color: black;
+}
